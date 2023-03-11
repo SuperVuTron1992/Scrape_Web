@@ -13,6 +13,7 @@ function HomePage() {
   const checkSubmiteButton = () =>{
     if (UserEmail === "theTuongVu@gmail.com" && PassWord === "testingStuff") {
      console.log("it is correct");
+     navigate("/MainPage");
    } else{
      console.log("it false");
   } 
