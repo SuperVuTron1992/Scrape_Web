@@ -8,11 +8,11 @@ function ForgotPassWordPage() {
 
   // check the input that the user input information via check submit button 
   const checkSubmiteButton = () =>{
-//     if (UserName === "theTuongVu" && PassWord === "testingStuff") {
-//      console.log("it is correct");
-//    } else{
-//      console.log("it false");
-//   } 
+    if (UserName === "theTuongVu" && PassWord === "testingStuff") {
+     console.log("it is correct");
+   } else{
+     console.log("it false");
+  } 
     console.log("this may work")
 } 
   return (
