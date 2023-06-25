@@ -1,6 +1,6 @@
 {
-  "homepage": "https://SuperVuTron1992.github.io/Scrape_Web",
   "name": "login_page",
+  "homepage": "https://SuperVuTron1992.github.io/Scrape_Web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
